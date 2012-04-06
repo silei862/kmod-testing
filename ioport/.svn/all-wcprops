@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/5/trunk/ioport
+END
+cmosio.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/ioport/cmosio.h
+END
+cmosinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/ioport/cmosinfo.h
+END
+cmosedit.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/ioport/cmosedit.c
+END
+cmosio.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/ioport/cmosio.c
+END
+cmosed
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/ioport/cmosed
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/ioport/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/ioport/Makefile
+END
+cmosinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/ioport/cmosinfo.c
+END

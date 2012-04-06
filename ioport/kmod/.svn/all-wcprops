@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/trunk/ioport/kmod
+END
+ioport_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5/trunk/ioport/kmod/ioport_main.c
+END
+ioport_fops.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5/trunk/ioport/kmod/ioport_fops.c
+END
+ioport_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/ioport/kmod/ioport_cmd.h
+END
+ioport_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5/trunk/ioport/kmod/ioport_main.h
+END
+ioport_fops.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5/trunk/ioport/kmod/ioport_fops.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5/trunk/ioport/kmod/Makefile
+END

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sudo insmod kmod/ioport.ko
+sudo ./cmosedit
+sudo rmmod ioport
+
