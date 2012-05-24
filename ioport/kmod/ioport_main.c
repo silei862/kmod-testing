@@ -7,6 +7,7 @@
  *********************************************************/
 
 #include <linux/fs.h>
+#include <linux/module.h>
 #include <linux/cdev.h>
 #include <linux/pci.h>
 #include <linux/mutex.h>

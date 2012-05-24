@@ -5,6 +5,7 @@
  * Description:	设备驱动程序主要模块
  *******************************************************************/
 #include <linux/fs.h>
+#include <linux/module.h>
 #include <linux/cdev.h>
 #include <linux/types.h>
 #include <linux/slab.h>
